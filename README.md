@@ -1,6 +1,4 @@
-# Vapor Games 🎮
-
-A modern game distribution platform built with React, TypeScript, and Supabase.
+# A modern game distribution platform built with React, TypeScript, and Supabase.
 
 ## Features ✨
 
@@ -25,7 +23,3 @@ A modern game distribution platform built with React, TypeScript, and Supabase.
 - **Backend:**
   - Supabase (Database & Authentication)
   - Edge Functions
-
-## Getting Started 🚀
-
-1. Clone the repository:
